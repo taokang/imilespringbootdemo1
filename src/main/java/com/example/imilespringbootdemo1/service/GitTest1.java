@@ -14,5 +14,6 @@ public class GitTest1 {
     public void show(){
         System.out.println("this is a git test");
         System.out.println("this is a git test for merger");
+        System.out.println("reset test");
     }
 }
